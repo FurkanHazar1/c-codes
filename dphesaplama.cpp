@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-	/*float vize,final,but,dp;
+	float vize,final,but,dp;
 	
 	printf("lutfen vize notunuzu giriniz:\n ");
 	scanf("%f",&vize);
@@ -30,56 +30,6 @@ int main(){
 		}
 		
 	}
-	
-	
-	*/
-	/*
-	int sayi,top,b,art;
-	
-	printf("sayi gir");
-	scanf("%d",&sayi);
-	
-	top=0;
-	art=0;
-	for(b=0;b<=sayi;b+=2){
-		top=top+b;
-		art=(top*2)/sayi;
-		
-		
-	}
-	printf("\ntoplam:%d",top);
-	printf("\nortalama:%d",art);
-	*/
-	
-	int sayi,top,art,b;
-
-	printf("sg:");
-	scanf("%d",&sayi);
-	
-	top=0;
-	art=0;
-    for(b=0;b<=sayi;b+=2){
-    	top=top+b;
-    	art=(top*2)/sayi;
-    	printf("top:%d\n",top+b);
-    	printf("\ntoplama islemi:%d\t",top);
-    	
-    	
-	}
-		
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	
 	
 	
