@@ -13,10 +13,6 @@ int main(){
 	printf("(%d+%d+%d)/%d=%d",sayi1,sayi2,sayi3,sayi4,(sayi1+sayi2+sayi3)/sayi4);
 	
 	
-	
-	
-	
-	getch();
 	return 0;
 }
 
