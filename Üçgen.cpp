@@ -4,7 +4,7 @@
 int main(){
 int sayi,i,j,k;
 	
-printf("sayı girin: ");
+printf("sayÃ½ girin: ");
 scanf("%d",&sayi);
 int bosluk=sayi-1;
 int yildiz=sayi-bosluk; 
