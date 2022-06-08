@@ -1,0 +1,9 @@
+isim=furkan
+soyisim=hazar
+numara=500
+isim=ahmet
+soyisim=hazar
+numara=385
+isim=tayyip
+soyisim=erdoğan
+numara=2685
