@@ -2,6 +2,7 @@
 
 int main(){
 	
+//Bu program kodu sadece basit aritmetik iÅŸlemler ve if else bilgileri kullanarak hazÄ±rlanmÄ±ÅŸtÄ±r
 	
 	float turk,mat,fen,sos,net,dogru,yanlis,puan,turky,maty,feny,sosy,obp;
 	printf("Lutfen Diploma Notunuzu Giriniz:");
@@ -123,16 +124,16 @@ int main(){
 	scanf("%f",&bioy);
 	
 	
-	/*Türkçe: 1,32
+	/*TÃ¼rkÃ§e: 1,32
 Matematik: 1,32
 Sosyal Bilimler: 1,36
-Fen Bilimleri: 1,36 ile çarpın
+Fen Bilimleri: 1,36 ile Ã§arpÃ½n
 
 
 Matematik: 3,00
 Fizik: 2,85
 Kimya: 3,07
-Biyoloji: 3,07 ile çarpın.*/	
+Biyoloji: 3,07 ile Ã§arpÃ½n.*/	
 	float matnet,fiznet,knet,bnet;
 	
 	matnet=amat-(0.25*amaty);
